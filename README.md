@@ -10,7 +10,7 @@
 
 ➺ Custom Set Prefix
 
-Soon more...
+More in [Releases](https://github.com/Relqhx/Ryon-Tickets/releases) or new added in [Issues](https://github.com/Relqhx/Ryon-Tickets/issues)
 
 ### **🔗 Version ↴**
 
